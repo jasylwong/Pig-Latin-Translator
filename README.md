@@ -7,7 +7,7 @@ Please see this link for what Pig Latin is: https://en.wikipedia.org/wiki/Pig_La
 ## How to use this programme
 
 1. Clone the repo to your local directory:
-`git clone https://github.com/jasylwong/Pig-Latin-translator.git`
+`$git clone https://github.com/jasylwong/Pig-Latin-translator.git`
 
 2. Run the programme in command line:
 `$ruby pig_latin_translator.rb`
@@ -16,7 +16,6 @@ Please see this link for what Pig Latin is: https://en.wikipedia.org/wiki/Pig_La
 
 - Input may consist of any alphabetic characters only (A-Z, a-z, numbers and spaces)
 - All punctuation, numerals, symbols and whitespace are not modified
-
 
  ## Features I am in the process of adding: ##
 
