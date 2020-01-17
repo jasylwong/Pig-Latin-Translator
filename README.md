@@ -1,4 +1,4 @@
-#Pig Latin translator#
+# Pig Latin translator #
 
 A translator to help you translate English into Pig Latin!
 
