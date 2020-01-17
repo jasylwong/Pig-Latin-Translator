@@ -1,6 +1,13 @@
 # Pig Latin translator #
 
-A translator to help you translate English into Pig Latin!
+Ellohay! This is a translator I have created to help you translate English into Pig Latin.
+
+What is Pig Latin? https://en.wikipedia.org/wiki/Pig_Latin
+
+## Getting started
+
+`git clone path-to-your-repo`
+`command_to_install_dependencies` (e.g. `bundle`)
 
 ## Assumptions: ##
 
@@ -8,7 +15,7 @@ A translator to help you translate English into Pig Latin!
 - All punctuation, numerals, symbols and whitespace are not modified
 
 
- ### Features I am in the process of adding: ###
+ ## Features I am in the process of adding: ##
 
 - Hyphenated words are treated as two words
 - Punctuation marks - multiple sentences
