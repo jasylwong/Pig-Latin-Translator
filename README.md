@@ -2,16 +2,19 @@
 
 Ellohay! This is a translator I have created to help you translate English into Pig Latin.
 
-What is Pig Latin? https://en.wikipedia.org/wiki/Pig_Latin
+Please see this link for what Pig Latin is: https://en.wikipedia.org/wiki/Pig_Latin
 
-## Getting started
+## How to use this programme
 
-`git clone path-to-your-repo`
-`command_to_install_dependencies` (e.g. `bundle`)
+1. Clone the repo to your local directory:
+`git clone https://github.com/jasylwong/Pig-Latin-translator.git`
+
+2. Run the programme in command line:
+`$ruby pig_latin_translator.rb`
 
 ## Assumptions: ##
 
-- Input may consist of alphabetic characters only (A-Z, a-z, numbers and spaces)
+- Input may consist of any alphabetic characters only (A-Z, a-z, numbers and spaces)
 - All punctuation, numerals, symbols and whitespace are not modified
 
 
